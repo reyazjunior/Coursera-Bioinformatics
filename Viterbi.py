@@ -6,7 +6,7 @@
 
 states = ('Fair', 'Biased')
  
-observations = ('heads', 'tails', 'tails', 'heads', 'heads')
+observations = ('tails', 'tails', 'heads', 'heads', 'heads')
 
 start_probability = {'Fair': 0.50, 'Biased': 0.50}
  
